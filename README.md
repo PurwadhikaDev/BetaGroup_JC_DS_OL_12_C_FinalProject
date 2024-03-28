@@ -26,5 +26,4 @@ The potential benefit from this Machine Learning model includes:<br>
 1. Cost Saving: ↓ EUR 6,867 (86% cost efficiency)
 2. Maximize Revenue: ↑ EUR 3,721,687 (70% revenue growth)
 ---
-<br>
-## Thank you for reading until down here! 🎖
+# Thank you for reading until down here! 🎖
