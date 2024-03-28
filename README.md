@@ -4,7 +4,8 @@ This is a final project dedicated for Purwadhika Data Science online class on th
 In this project, our objective is to predict whether the existing bank customer is going to accept a deposit offer or not. The focus in this analysis is to focus on both minimizing False Positive and False Negative, thus we're using F1 score metrics to improve in our model<br>
 <br>
 The model we use is classification and the aim is to get the best model & resampler method that works best on our existing dataset<br>
-![ConfusionMatrix](![image](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_12_C_FinalProject/assets/151733196/9172407a-844d-4898-af0b-eba0d75e95f3))
+!![image](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_12_C_FinalProject/assets/151177941/39e40a40-00de-40a3-99c3-7a349ccdfa23)
+[ConfusionMatrix](![image](https://github.com/PurwadhikaDev/BetaGroup_JC_DS_OL_12_C_FinalProject/assets/151733196/9172407a-844d-4898-af0b-eba0d75e95f3))
 
 ---
 
